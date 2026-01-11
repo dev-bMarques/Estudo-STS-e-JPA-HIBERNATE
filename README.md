@@ -13,8 +13,8 @@ Nesse projeto tenho explorado as seguintes ferramentas:
 - **Java** — linguagem principal do projeto
 - **Spring Framework / Spring Boot** — para estrutura da aplicação
 - **STS (Spring Tool Suite)** — IDE focada em desenvolvimento com Spring
-- **JPA (Java Persistence API)** — especificação para persistência de dados em Java :contentReference[oaicite:1]{index=1}
-- **Hibernate** — implementação de JPA para ORM (Mapeamento Objeto-Relacional) :contentReference[oaicite:2]{index=2}
+- **JPA (Java Persistence API)** — especificação para persistência de dados em Java
+- **Hibernate** — implementação de JPA para ORM (Mapeamento Objeto-Relacional)
 - **Maven** — gerenciamento de dependências e build
 
 ---
